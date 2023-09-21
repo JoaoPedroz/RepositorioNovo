@@ -6,7 +6,7 @@ Inicio
 
 total <- 0
 
-Escreval("Bem-vindo do Joao!!)")
+Escreval("Bem-vindo do Joao!!)versão 2")
 Escreval("Menu de Lanches:")
 Escreval("1  X-Burguer(Artesanal): R$29,00")
 Escreval("2  X-Bacon: R$ 33,00")
